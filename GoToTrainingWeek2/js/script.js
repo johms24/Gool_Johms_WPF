@@ -1,11 +1,9 @@
 /*
 Johms Gool
-SDI Section 3
-Go To Training Week #2
-12-5-2014
+
  */
 
-//alert("Testing if the js file is connected.");
+alert("Testing if the js file is connected.");
 
 // Create an age calculator
 
