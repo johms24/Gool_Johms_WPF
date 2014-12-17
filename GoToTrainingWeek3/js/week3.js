@@ -77,7 +77,7 @@ if(bowlOfFruit[3]==="pear"){
     console.log("This fruit is not a pear!")
 }
 //Report out how many pears we have
-console.log("There are "+totalNumPears+" number of pears in the bowl.")
+console.log("There are "+totalNumPears+" number of pears in the bowl.");
 
 //We want the computer to do the "heavy lifting" for us
 
