@@ -137,6 +137,6 @@ if(isNaN(userNumber)){
     //This is a text string
     //reprompt the user for a number
     userNumber= prompt("Only type in numbers!");
-    
+
 
 }
