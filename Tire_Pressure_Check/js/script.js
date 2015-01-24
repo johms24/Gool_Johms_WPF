@@ -9,7 +9,7 @@ var tirePressures=[44, 44, 35, 35];
 
 //Alert user of the procedure
 alert("Let's check to make sure tire pressure is correct for all tires.  Please check the tire pressure in PSI and " +
-"note the pressure for each tire.")
+"note the pressure for each tire.");
 
 //Enter front tire pressure and rear tire pressures for front driver and front passenger and
 // rear driver and rear passenger
