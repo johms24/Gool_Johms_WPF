@@ -6,13 +6,13 @@
 
 //Given variable
 
-
+var radius=50
 
 //Create function
-function calculateCircumference(radius){
+function calculateCircumference(r){
     //C=(pi)D
     //Establish D (diameter)
-    var diameter=radius*2;
+    var diameter=r*2;
     //Calculate circumference
     var circumference=Math.PI*diameter;
     //Print circumference for verification
@@ -20,6 +20,6 @@ function calculateCircumference(radius){
     return circumference;
 }
 //Assign variable to output
-var circumferenceCircle=calculateCircumference(5);
+var circumferenceCircle=calculateCircumference(radius);
 //Print output variable value
 console.log(circumferenceCircle);
