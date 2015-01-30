@@ -19,6 +19,6 @@ function calcStingsToKill(victimWeightLb){
 }
 
 //Assign output variable value to function calculation
-var killerBeeStings=calcStingsToKill(100)
+var killerBeeStings=calcStingsToKill(victimWeightLb)
 //Print returned value
 console.log("It takes "+killerBeeStings+" bee stings to kill this animal." );
